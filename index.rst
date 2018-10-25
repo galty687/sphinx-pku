@@ -19,6 +19,7 @@ Welcome to sphinx demo's documentation!
    :caption: 第二章：如何安装sphinx
    
    2-practice/how_to_install
+   2-practice/how_to_open_project.md
 
 Indices and tables
 ==================
